@@ -1,4 +1,0 @@
-Ask person to give an year;
-Tell person the program is going to calculate the gigasecond passing considering It's January 1st of givenYear;
-Calculate givenYear + 31;
-

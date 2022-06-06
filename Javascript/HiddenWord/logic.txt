@@ -1,0 +1,8 @@
+Logic
+
+1 - Get the word and upper cases with a prompt
+2 - Call WordDetector function with the given word as parameter
+
+Function:
+1 - Slice the string into an array
+2 - Use the filter function and detect all lower case letters

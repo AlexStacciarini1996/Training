@@ -15,11 +15,13 @@ switch (figure) {
 
 function Calculator(number) {
     if (figure == "s") {
+        //Formula to calculate the perimeter of the square
         let sqrPerim = 4 * number
         console.log(sqrPerim)
         return sqrPerim
     }
     else if (figure == "c") {
+        //Formula to calculate the perimeter of the circle
         let circPerim = 6.28 * number
         console.log(circPerim)
         return circPerim

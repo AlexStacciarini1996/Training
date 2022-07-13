@@ -1,3 +1,8 @@
+//This app will count how many "true" values there are in an array
+//Exercise origin: edabit.com
+
+
+
 let array1 = [true, false, true, true, false, false]
 let array2 = [false, false]
 let array3 = [true, true, false]
